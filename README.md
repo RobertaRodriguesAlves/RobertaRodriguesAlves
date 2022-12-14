@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Roberta Suélen Rodrigues Alves
 - 👀 I’m interested in Tecnology
 - 🌱 I’m currently learning DevOps and Cloud Computing
-- 💞️ I’m looking to collaborate on Beta Learning
 - 📫 How to reach me rodriguesalves.roberta@gmail.com
 
 <!---
